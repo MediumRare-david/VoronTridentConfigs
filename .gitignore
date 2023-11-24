@@ -1,0 +1,8 @@
+saved_variables.cfg
+klipper.bin
+*.zip
+*.tar.gz
+printer-*_*.cfg
+K-ShakeTune_results/
+cfgs/*.zip
+cfgs/*.tar.gz
